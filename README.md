@@ -36,7 +36,7 @@ Me especializo en crear soluciones escalables y eficientes, aplicando metodolog�
 
 ## 🌐 Conecta conmigo  
 
-💼 [LinkedIn](https://www.linkedin.com/in/cristian-orellana-a0384734b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristian-orellana-a0384734b/)
 - 📧 **cristianj.orellanaa@gmail.com**  
 
 ---
